@@ -64,6 +64,13 @@ cmake -B build-win \
 cmake --build build-win --config Release -j$(nproc)
 ```
 
+## Credits
+
+- **Jon Dattorro** — original plate reverb algorithm (Dattorro 1997)
+- **Valley Audio** — original Plateau plugin design and DSP framework
+- **an1mal-x** — SVG panel graphics and UI refinements
+- **BinDumps** — VST3 port, cross-platform builds, and maintenance
+
 ## License
 
 This project is provided for educational and personal use.
