@@ -2,6 +2,8 @@
 
 A lush stereo plate reverb audio plugin in VST3 format, built with JUCE.
 
+![Preview](plateau_screenshot.png)
+
 ## Features
 
 - Dattorro 1997 plate reverb algorithm — rich, dense, natural-sounding plate decay
