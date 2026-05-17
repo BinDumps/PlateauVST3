@@ -1,0 +1,26 @@
+# Build outputs
+build/
+build-win/
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+*.a
+*.o
+*.obj
+*.so
+*.vst3
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Generated
+Source/BinaryData.cpp
